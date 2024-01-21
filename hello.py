@@ -18,3 +18,7 @@ print (proverb)
 print (length)
 print (contains_perfect)
 print (repeated_proverb)
+a=0
+b=1
+print (a)
+print (b)
